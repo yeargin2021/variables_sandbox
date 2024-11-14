@@ -1,0 +1,12 @@
+# ninja log v6
+1	10	1731508215272646759	clean	ad90e366ad70d77b
+1	74	1731576841189809994	build.ninja	bd867dd603cc23ba
+17	581	1731508215412321567	CMakeFiles/variables_sandbox.dir/main.cpp.o	cb220c8b8c7c4d6c
+581	703	1731508215975952880	variables_sandbox	d15099c2abe7d17
+2	76	1731576841189809994	build.ninja	bd867dd603cc23ba
+8	455	1731577093920715631	CMakeFiles/variables_sandbox.dir/main.cpp.o	cb220c8b8c7c4d6c
+455	582	1731577094368555224	variables_sandbox	d15099c2abe7d17
+7	517	1731577202518607581	CMakeFiles/variables_sandbox.dir/main.cpp.o	cb220c8b8c7c4d6c
+517	559	1731577203028368494	variables_sandbox	d15099c2abe7d17
+7	507	1731577336382659698	CMakeFiles/variables_sandbox.dir/main.cpp.o	cb220c8b8c7c4d6c
+507	554	1731577336882977517	variables_sandbox	d15099c2abe7d17

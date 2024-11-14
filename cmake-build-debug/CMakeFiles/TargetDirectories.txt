@@ -1,0 +1,3 @@
+/Users/tommy/CLionProjects/variables_sandbox/cmake-build-debug/CMakeFiles/variables_sandbox.dir
+/Users/tommy/CLionProjects/variables_sandbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tommy/CLionProjects/variables_sandbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
